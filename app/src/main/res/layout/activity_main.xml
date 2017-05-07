@@ -38,12 +38,6 @@
                 android:orientation="horizontal"
                 android:weightSum="1">
 
-                <ImageView
-                    android:id="@+id/imageView74"
-                    android:layout_width="89dp"
-                    android:layout_height="57dp"
-                    android:layout_weight="0.14"
-                    app:srcCompat="@drawable/ctv"/>
 
                 <LinearLayout
                     android:layout_width="match_parent"
